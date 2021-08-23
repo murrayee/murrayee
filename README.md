@@ -1,1 +1,2 @@
-# Hi Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Murray's GitHub stats](https://github-readme-stats.vercel.app/api?username=murrayee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
